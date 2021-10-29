@@ -1,5 +1,6 @@
 const jwt = require('jsonwebtoken');
 const NotValidEmailOrPassword = require('../errors/NotValidEmailOrPassword');
+
 const { JWT_SECRET, NODE_ENV } = process.env;
 
 const handleAuthError = () => {

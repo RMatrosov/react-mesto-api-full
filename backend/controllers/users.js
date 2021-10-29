@@ -33,7 +33,7 @@ const getUserMe = (req, res, next) => {
       throw new ValidationError('Переданы некорректные данные');
     }
     next(err);
-  });
+  }).catch(next);
 };
 
 const getUsers = (req, res, next) => {
