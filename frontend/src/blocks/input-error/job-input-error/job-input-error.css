@@ -1,0 +1,11 @@
+.job-input-error{
+    top: 195px;
+    left: 37px;
+}
+
+@media (max-width: 596px) {
+    .job-input-error {
+        top: 177px;
+        left: 22px;
+    }
+}

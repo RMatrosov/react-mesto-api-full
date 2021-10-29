@@ -1,0 +1,13 @@
+.profile__image-wrapper:hover .profile__image-btn {
+    display: block;
+}
+
+.profile__image-wrapper {
+    position: relative;
+    align-self: center;
+}
+
+.profile__image-wrapper:hover .profile__image {
+    background: #000000;
+    opacity: 0.6;
+}

@@ -1,0 +1,11 @@
+.avatar-input-error{
+    top: 126px;
+    left: 35px;
+}
+
+@media (max-width: 596px) {
+    .avatar-input-error {
+        top: 119px;
+        left: 22px;
+    }
+}

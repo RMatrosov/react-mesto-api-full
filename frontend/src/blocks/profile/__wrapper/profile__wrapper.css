@@ -1,0 +1,15 @@
+.profile__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+@media (max-width: 805px) {
+    .profile__wrapper {
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+
+
+

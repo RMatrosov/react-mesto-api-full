@@ -1,0 +1,14 @@
+.popup__container {
+    position: relative;
+    width: 430px;
+    margin: auto;
+    background: #FFFFFF;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+@media (max-width: 596px) {
+    .popup__container {
+        width: 282px;
+    }
+}

@@ -1,0 +1,16 @@
+.profile__info {
+    padding-left: 30px;
+    max-width: 342px;
+    display: grid;
+    grid-gap: 16px 25px;
+    grid-template-areas:
+        "name button"
+        "job .";
+}
+
+@media (max-width: 805px) {
+    .profile__info{
+        grid-gap: 14px 10px;
+        padding: 22px 0 36px 30px;
+    }
+}

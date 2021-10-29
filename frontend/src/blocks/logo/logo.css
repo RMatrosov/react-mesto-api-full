@@ -1,0 +1,19 @@
+.logo {
+    width: 142px;
+    height: 33px;
+    background-image: url(../../images/Vector.svg);
+}
+
+@media (max-width: 1024px) {
+    .logo {
+        margin-left: 27px;
+    }
+}
+
+@media (max-width: 596px) {
+    .logo {
+        width: 103.74px;
+        height: 24.4px;
+        background-size: cover;
+    }
+}

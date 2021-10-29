@@ -1,0 +1,15 @@
+.success__popup_img{
+    width: 120px;
+    height: 120px;
+    left: 153px;
+    top: 1852px;
+    background-image: url(../../images/Union.svg);
+}
+
+.fail__popup_img{
+    width: 120px;
+    height: 120px;
+    left: 153px;
+    top: 1852px;
+    background-image: url(../../images/Fail.svg);
+}

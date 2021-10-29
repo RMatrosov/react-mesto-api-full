@@ -1,0 +1,12 @@
+.name-input-error {
+    top: 127px;
+    left: 37px;
+}
+
+@media (max-width: 596px) {
+    .name-input-error {
+        top: 117px;
+        left: 22px;
+        position: absolute;
+    }
+}

@@ -1,0 +1,27 @@
+.log__in_button {
+    width: 358px;
+    height: 50px;
+    left: 461px;
+    top: 558px;
+    background: #FFFFFF;
+    border-radius: 2px;
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    cursor: pointer;
+    margin-top: 184px;
+}
+
+.log__in_button:hover {
+    opacity: 0.85;
+}
+
+@media (max-width: 390px) {
+    .log__in_button {
+        width: 260px;
+        font-size: 16px;
+        line-height: 19px;
+    }
+}

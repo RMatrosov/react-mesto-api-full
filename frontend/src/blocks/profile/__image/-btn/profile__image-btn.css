@@ -1,0 +1,14 @@
+.profile__image-btn {
+    background-image: url(../../../../images/avatarchange.svg);
+    cursor: pointer;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 26px;
+    height: 26px;
+    background-color: transparent;
+    border: none;
+    display: none;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}

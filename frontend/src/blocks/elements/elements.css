@@ -1,0 +1,7 @@
+
+@media (max-width: 596px) {
+    .elements {
+        max-width: calc(100% - 19px * 2);
+        margin: 0 auto;
+    }
+}

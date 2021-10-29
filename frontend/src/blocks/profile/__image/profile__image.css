@@ -1,0 +1,15 @@
+.profile__image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    cursor: pointer;
+}
+
+@media (max-width: 805px) {
+    .profile__image {
+        align-self: center;
+    }
+}
+

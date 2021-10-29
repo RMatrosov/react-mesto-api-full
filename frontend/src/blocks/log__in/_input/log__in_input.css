@@ -1,0 +1,21 @@
+.log__in_input{
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    width: 358px;
+    color: #CCCCCC;
+    border: none;
+    border-bottom: 2px solid #CCCCCC;;
+    background: black;
+    margin-bottom: 30px;
+    padding-bottom: 13px;
+    outline:none
+}
+
+@media (max-width: 390px) {
+    .log__in_input {
+        width: 260px;
+    }
+}

@@ -1,0 +1,11 @@
+.link-input-error{
+    top: 195px;
+    left: 37px;
+}
+
+@media (max-width: 596px) {
+    .link-input-error {
+        top: 179px;
+        left: 22px;
+    }
+}
