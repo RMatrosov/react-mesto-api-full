@@ -5,3 +5,5 @@
 Публичный IP-адрес сервера 84.201.131.61
 
 Домен https://matrosov.mesto.nomoredomains.rocks/
+
+Домен сервера https://api.matrosov.mesto.nomoredomains.rocks/
